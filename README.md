@@ -1,7 +1,7 @@
-# Esolitos' IPA: Missing homebrew formulae.
+# ipblock tap: missing homebrew formulae
 
-This is s simple brew tap to get some missing formulae, note that some might customized for my needs so be sure to take a quick look to the Formulae before installing.
+This is s simple brew tap to get some missing formulae.
 
 ## Installation
 
-To install this tap in your sources just run `brew tap esolitos/ipa`
+To install this tap in your sources just run `brew tap ipblock/tap`
